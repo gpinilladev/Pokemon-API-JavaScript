@@ -1,2 +1,2 @@
 # Pokemon-API-JavaScript
-Consumo de api en 
+Consumo de API REST con JavaScript - Listado pokemons 
